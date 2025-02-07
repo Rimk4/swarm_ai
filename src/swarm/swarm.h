@@ -2,7 +2,7 @@
 #include <queue>
 #include <algorithm>
 
-#include "agent_interface.h"
+#include "../agents/agent_interface.h"
 
 
 class Swarm
