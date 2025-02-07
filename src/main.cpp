@@ -1,8 +1,7 @@
 #include <iostream>
 
-#include "agents.h"
-#include "agent_network.h"
-#include "swarm.h"
+#include "agents/agents.h"
+#include "swarm/swarm.h"
 
 
 int main ()
